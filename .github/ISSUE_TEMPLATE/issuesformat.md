@@ -3,7 +3,7 @@ name: IssuesFormat
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: 
+assignees: JingiHong, crushed-taro
 
 ---
 
